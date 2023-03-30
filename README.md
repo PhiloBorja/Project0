@@ -1,6 +1,6 @@
 # Project0
 
-Motivation
+## Motivation
 
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
 
@@ -34,14 +34,14 @@ In Order to answer these questions , we will use:
 
 
 
-Libraries
+## Libraries
 
 Numpy – Pandas – Seaborn – Matplotlib
 
 
 
 
-Summary of results
+## Summary of results
 
 The months with the highest availability correspond to the months of Christmas (November and December). January is the month with the lowest availability followed by the summer months (July and August)
 

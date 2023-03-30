@@ -16,10 +16,10 @@ The following Airbnb activity is included in this Seattle dataset:
 In This Project, we answer 3 questions:
 
 1.	The busiest month in terms of availbility of listing
-2.	
-3.	The highest mean price per night of listings
-4.	
-5.	The most expensive in terms of 'accomodate'
+	
+2.	The highest mean price per night of listings
+	
+3.	The most expensive in terms of 'accomodate'
 
 There are a wide variety of points of view to analyze the data. We can base it on different points such as the price, the name of the host, its score, the number of reviews of the ad, etc.
 But in our case, I think that the most representative for this dataset are the points that we will see below:

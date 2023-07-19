@@ -48,3 +48,7 @@ The months with the highest availability correspond to the months of Christmas (
 The highest average price per night, we find it in the summer months (June, July and August), which coincide with those with less availability. It makes sense, since the lower the offer, the higher the price
 
 The average price per accommodates, we can see that between 1-7 pax, the relationship is direct. But from there no, being 11 pax the highest average price, that is more high than a 16 pax accomodation
+
+## Link to the Blog post
+In the next link you can find the blog post.
+https://github.com/PhiloBorja/Project1/blob/0ac58d251397650312ab169a34f98b84bdd6e38d/_posts/2023-03-26-How%20do%20you%20become%20AirData%20Scientist%3F.md
